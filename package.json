@@ -1,0 +1,19 @@
+{
+  "name": "webpack_starters",
+  "version": "1.0.0",
+  "description": "Webpack boilerplate for React.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trave84/webpack_starters.git"
+  },
+  "author": "Arpad Kajari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trave84/webpack_starters/issues"
+  },
+  "homepage": "https://github.com/trave84/webpack_starters#readme"
+}
